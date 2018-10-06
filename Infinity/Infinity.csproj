@@ -83,6 +83,12 @@
     <Compile Include="Controls\SwitchInfinity.Designer.cs">
       <DependentUpon>SwitchInfinity.cs</DependentUpon>
     </Compile>
+    <Compile Include="Controls\SwitchInfinity2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SwitchInfinity2.Designer.cs">
+      <DependentUpon>SwitchInfinity2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Controls\TextBoxInfinity.cs">
       <SubType>UserControl</SubType>
     </Compile>
