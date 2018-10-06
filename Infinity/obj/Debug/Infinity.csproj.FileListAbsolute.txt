@@ -6,3 +6,11 @@ C:\SOFTWARE\GitHub\Infinity-controls\Infinity\Infinity\obj\Debug\Infinity.dll
 C:\SOFTWARE\GitHub\Infinity-controls\Infinity\Infinity\obj\Debug\Infinity.pdb
 C:\SOFTWARE\GitHub\Infinity-controls\Infinity\Infinity\obj\Debug\Infinity.Controls.SwitchInfinity.resources
 C:\SOFTWARE\GitHub\Infinity-controls\Infinity\Infinity\obj\Debug\Infinity.csprojResolveAssemblyReference.cache
+C:\SOFTWARE\GitHub\InfinityControls\Infinity\bin\Debug\Infinity.dll
+C:\SOFTWARE\GitHub\InfinityControls\Infinity\bin\Debug\Infinity.pdb
+C:\SOFTWARE\GitHub\InfinityControls\Infinity\obj\Debug\Infinity.csprojResolveAssemblyReference.cache
+C:\SOFTWARE\GitHub\InfinityControls\Infinity\obj\Debug\Infinity.Controls.SwitchInfinity.resources
+C:\SOFTWARE\GitHub\InfinityControls\Infinity\obj\Debug\Infinity.Controls.TextBoxInfinity.resources
+C:\SOFTWARE\GitHub\InfinityControls\Infinity\obj\Debug\Infinity.csproj.GenerateResource.Cache
+C:\SOFTWARE\GitHub\InfinityControls\Infinity\obj\Debug\Infinity.dll
+C:\SOFTWARE\GitHub\InfinityControls\Infinity\obj\Debug\Infinity.pdb
