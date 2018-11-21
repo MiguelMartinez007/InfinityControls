@@ -1,0 +1,7 @@
+C:\Users\MIKE\Documents\GitHub\InfinityControls\Infinity\bin\Release\Infinity.dll
+C:\Users\MIKE\Documents\GitHub\InfinityControls\Infinity\bin\Release\Infinity.pdb
+C:\Users\MIKE\Documents\GitHub\InfinityControls\Infinity\obj\Release\Infinity.Controls.SwitchInfinity.resources
+C:\Users\MIKE\Documents\GitHub\InfinityControls\Infinity\obj\Release\Infinity.Controls.TextBoxInfinity.resources
+C:\Users\MIKE\Documents\GitHub\InfinityControls\Infinity\obj\Release\Infinity.csproj.GenerateResource.Cache
+C:\Users\MIKE\Documents\GitHub\InfinityControls\Infinity\obj\Release\Infinity.dll
+C:\Users\MIKE\Documents\GitHub\InfinityControls\Infinity\obj\Release\Infinity.pdb

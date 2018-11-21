@@ -15,7 +15,7 @@ namespace Infinity.Controls
         //Definicion de variables
         SolidBrush col;
 
-        String icono = @"C:\SOFTWARE\GitHub\InfinityControls\Infinity\recursos\Natural Food_96pxclaro.png";
+        String icono = @"C:\recursos\Natural Food_96pxclaro.png";
 
         Color normalColor;
         Color hoverColor;

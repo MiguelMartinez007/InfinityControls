@@ -13,3 +13,11 @@ C:\SOFTWARE\GitHub\InfinityControls\Infinity\obj\Debug\Infinity.Controls.TextBox
 C:\SOFTWARE\GitHub\InfinityControls\Infinity\obj\Debug\Infinity.csproj.GenerateResource.Cache
 C:\SOFTWARE\GitHub\InfinityControls\Infinity\obj\Debug\Infinity.dll
 C:\SOFTWARE\GitHub\InfinityControls\Infinity\obj\Debug\Infinity.pdb
+C:\Users\MIKE\Documents\GitHub\InfinityControls\Infinity\bin\Debug\Infinity.dll
+C:\Users\MIKE\Documents\GitHub\InfinityControls\Infinity\bin\Debug\Infinity.pdb
+C:\Users\MIKE\Documents\GitHub\InfinityControls\Infinity\obj\Debug\Infinity.csprojResolveAssemblyReference.cache
+C:\Users\MIKE\Documents\GitHub\InfinityControls\Infinity\obj\Debug\Infinity.Controls.SwitchInfinity.resources
+C:\Users\MIKE\Documents\GitHub\InfinityControls\Infinity\obj\Debug\Infinity.Controls.TextBoxInfinity.resources
+C:\Users\MIKE\Documents\GitHub\InfinityControls\Infinity\obj\Debug\Infinity.csproj.GenerateResource.Cache
+C:\Users\MIKE\Documents\GitHub\InfinityControls\Infinity\obj\Debug\Infinity.dll
+C:\Users\MIKE\Documents\GitHub\InfinityControls\Infinity\obj\Debug\Infinity.pdb
